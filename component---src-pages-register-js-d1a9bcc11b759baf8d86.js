@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{aSaP:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),l=a("1Qp6"),c=a("AzQQ"),u=function(){return r.a.createElement("p",null,"yo")};t.default=function(){return r.a.createElement(l.e,null,r.a.createElement(c.c,null),r.a.createElement(u,{as:l.c,id:"projects"},r.a.createElement("h3",null,"Register as a patient/Regular user"),r.a.createElement("h3",null,"Register as a practionner/hospital ")))}}}]);
+//# sourceMappingURL=component---src-pages-register-js-d1a9bcc11b759baf8d86.js.map

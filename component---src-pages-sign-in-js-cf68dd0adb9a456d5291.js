@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{lPWI:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),r=a("1Qp6"),c=a("AzQQ");n.default=function(){return l.a.createElement(r.e,null,l.a.createElement(c.c,null),l.a.createElement(Wrapper,{as:r.c,id:"projects"},l.a.createElement("h3",null,"Sign in as a patient/Regular user"),l.a.createElement("h3",null,"Sign in as a practionner/hospital ")))}}}]);
+//# sourceMappingURL=component---src-pages-sign-in-js-cf68dd0adb9a456d5291.js.map
